@@ -1,10 +1,10 @@
 Hi 👋, I’m Jiashun.
 
-🧪 MosaicX — an automated pipeline for modeling and optimizing physical & dynamical systems from physical models and experimental data.
+🧪 **MosaicX** — an automated pipeline for modeling and optimizing physical & dynamical systems from physical models and experimental data. It extends concepts from **DDDA**, a project I co-developed with my supervisor.
 
-🧠 LLM reasoning plugins — logic-oriented extensions that enhance inference, verification, and automated decision-making.
+🧠 **LLM reasoning plugins** — logic-oriented extensions that enhance inference, verification, and automated decision-making.
 
-🌐 Trustworthy OWL DL knowledge graphs — semantic infrastructures for reliable, explainable scientific workflows.
+🌐 **Trustworthy OWL DL ontologies** — the foundation for building reliable, explainable scientific knowledge graphs and workflows.
 
 🎯 All these efforts aim toward the broader vision of a Machine Scientist.
 
