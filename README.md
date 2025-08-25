@@ -10,4 +10,4 @@ Hi 👋, I’m Jiashun.
 
 📦 I also share open-source packages and cookbooks to support reproducible research and community learning.
 
-🎓 Preparing for a PhD, focusing on physics-informed computation, reasoning, and automation.
+🎓 Preparing for a PhD, focusing on physics-informed modeling, OWL DL–based trustworthy knowledge graphs, and explainable reasoning for scientific discovery.
